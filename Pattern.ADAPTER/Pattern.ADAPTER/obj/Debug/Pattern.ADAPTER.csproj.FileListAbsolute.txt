@@ -1,0 +1,9 @@
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\bin\Debug\Pattern.ADAPTER.exe.config
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\bin\Debug\Pattern.ADAPTER.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\bin\Debug\Pattern.ADAPTER.pdb
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\bin\Debug\Newtonsoft.Json.dll
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\obj\Debug\Pattern.ADAPTER.csprojAssemblyReference.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\obj\Debug\Pattern.ADAPTER.csproj.CoreCompileInputs.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\obj\Debug\Pattern.ADAPTER.csproj.CopyComplete
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\obj\Debug\Pattern.ADAPTER.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\ADAPTER\Pattern.ADAPTER\Pattern.ADAPTER\obj\Debug\Pattern.ADAPTER.pdb
